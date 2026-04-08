@@ -11,26 +11,26 @@
 ---
 
 ### 💻 Professional Profile
-I am an ambitious **BSc Computer Science graduate** from Eduvos, focused on developing robust software solutions and exploring the synergy between hardware and software. My academic career has been defined by a commitment to technical excellence and a drive to understand complex systems from the ground up.
+I am an ambitious **BSc Computer Science graduate** from Eduvos, dedicated to developing robust software solutions and exploring the synergy between hardware and software. My academic journey has been driven by a commitment to technical excellence and a deep-seated curiosity for understanding complex systems from first principles.
 
-During my vacation work at **BBD Software**, I transitioned from academic theory to professional practice, gaining hands-on experience with Docker, Git workflows, and collaborative development in high-pressure environments. I am now looking to leverage my background in full-stack development and AI techniques to contribute to innovative engineering teams.
+During my vacation work at **BBD Software**, I effectively transitioned from academic theory to professional software delivery. I gained practical experience with **Docker containerization**, **Git workflows**, and collaborative engineering within high-velocity teams. I am now seeking to leverage my background in full-stack development and AI techniques to contribute to an innovative engineering environment.
 
-- 🎓 **Academic Excellence:** Top Performer in Artificial Intelligence and IT Project Management.
-- 🏆 **Hackathons:** Developed a Lending Automation MVP for **Rand Merchant Bank** (GirlCode Hackathon).
-- 🚀 **Current Focus:** Deepening my expertise in **TypeScript**, **React**, and **Cloud Computing**.
+- 🎓 **Academic Excellence:** Recognized as a Top Performer in Artificial Intelligence and IT Project Management.
+- 🏆 **Hackathons:** Engineered a Lending Automation MVP for **Rand Merchant Bank** (GirlCode Hackathon), focusing on workflow optimization.
+- 🚀 **Current Focus:** Advancing my proficiency in **TypeScript**, **React**, and **Cloud Architecture**.
 
 ---
 
 ### 🛠️ Technical Toolkit
 
-**Core Development**
+**Core Development & Frameworks**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,cpp,php,react,nodejs,express,flask" />
   </a>
 </p>
 
-**DevOps, Databases & Cloud**
+**DevOps, Databases & Infrastructure**
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,gcp,docker,git,vscode,postman" />
@@ -40,21 +40,20 @@ During my vacation work at **BBD Software**, I transitioned from academic theory
 ---
 
 ### 🚀 Key Projects
-*   **RMB Lending Automation:** A digital solution prototype designed to streamline corporate lending workflows, featuring automated task generation and a compliance dashboard.
-*   **LMS Capstone:** A scalable Learning Management System for matric students, incorporating data visualization and student progress tracking.
+*   **RMB Lending Automation:** A digital transformation prototype designed to streamline corporate lending workflows, featuring automated task generation and a real-time compliance dashboard.
+*   **LMS Capstone:** A scalable Learning Management System for matric students, incorporating comprehensive data visualization and student performance tracking.
 
 ---
 
-### 📈 GitHub Activity 
-
+### 📈 GitHub Activity Summary 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vanessa-tf&theme=tokyonight" />
+  <img width="800px" src="https://github-readme-streak-stats.herokuapp.com/?user=Vanessa-tf&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 📫 Connect With Me
-I am eager to connect with fellow developers, mentors, and industry professionals.
+I am eager to engage with fellow developers, mentors, and industry professionals regarding software engineering and potential career opportunities.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/vanessa-fambarega-a88775347/" target="_blank">
