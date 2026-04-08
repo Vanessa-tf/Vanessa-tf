@@ -46,10 +46,6 @@ During my vacation work at **BBD Software**, I transitioned from academic theory
 ---
 
 ### 📈 GitHub Activity 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vanessa-tf&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessa-tf&layout=compact&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vanessa-tf&theme=tokyonight" />
