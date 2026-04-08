@@ -1,48 +1,75 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Vanessa+👋;Aspiring+Software+Developer;Learning+React+%26+TypeScript;Eduvos+Graduate+Class+of+May+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Vanessa+👋;Computer+Science+Graduate;Full-Stack+Developer;Based+in+Midrand;Let's+build+the+future." alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Junior%20Developer%20In%20Training-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Based%20in%20Mpumalanga-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Learning%20Every%20Day-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/-BSc%20CS%20Graduate-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Based%20in%20Midrand-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Open%20To%20Work-green?style=for-the-badge" />
 </p>
 
 ---
 
-### 🚀 About Me
-I am a Software Development student and an aspiring developer. I'm currently focused on building my foundation in **TypeScript** and **React**. I'm a beginner who is passionate about coding and constantly improving my skills as I prepare for my graduation in May 2026.
+### 💻 Professional Profile
+I am an ambitious **BSc Computer Science graduate** from Eduvos, focused on developing robust software solutions and exploring the synergy between hardware and software. My academic career has been defined by a commitment to technical excellence and a drive to understand complex systems from the ground up.
 
-- 🎓 **Education:** Information Systems @ Eduvos (Graduating May 2026)
-- 🛠️ **Current Learning Projects:** [CareFinder](https://github.com/Vanessa-tf) & [LMS Capstone](https://github.com/Vanessa-tf/Learning-Management-System)
-- 🌱 **Currently Studying:** TypeScript Fundamentals & Data Structures
+During my vacation work at **BBD Software**, I transitioned from academic theory to professional practice, gaining hands-on experience with Docker, Git workflows, and collaborative development in high-pressure environments. I am now looking to leverage my background in full-stack development and AI techniques to contribute to innovative engineering teams.
+
+- 🎓 **Academic Excellence:** Top Performer in Artificial Intelligence and IT Project Management.
+- 🏆 **Hackathons:** Developed a Lending Automation MVP for **Rand Merchant Bank** (GirlCode Hackathon).
+- 🚀 **Current Focus:** Deepening my expertise in **TypeScript**, **React**, and **Cloud Computing**.
 
 ---
 
-### 🛠️ Tech Stack I'm Learning
+### 🛠️ Technical Toolkit
+
+**Core Development**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,express,postgres,docker,git,vscode,html,css" />
+    <img src="https://skillicons.dev/icons?i=ts,js,python,java,cs,cpp,php,react,nodejs,express,flask" />
+  </a>
+</p>
+
+**DevOps, Databases & Cloud**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,gcp,docker,git,vscode,postman" />
   </a>
 </p>
 
 ---
 
-### 📊 My Progress & Activity
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanessa-tf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessa-tf&layout=compact&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanessa-tf&theme=tokyonight" alt="GitHub Streak" />
-</div>
+### 🚀 Key Projects
+*   **RMB Lending Automation:** A digital solution prototype designed to streamline corporate lending workflows, featuring automated task generation and a compliance dashboard.
+*   **LMS Capstone:** A scalable Learning Management System for matric students, incorporating data visualization and student progress tracking.
 
 ---
 
-### 📫 Let's Connect!
+### 📈 GitHub Activity 
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Vanessa-tf&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessa-tf&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Vanessa-tf&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Connect With Me
+I am eager to connect with fellow developers, mentors, and industry professionals.
+
 <p align="left">
-<a href="https://www.linkedin.com/in/vanessa-fambarega-a88775347/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vanessa Fambarega LinkedIn" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/vanessa-fambarega-a88775347/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:vfambarega@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://vanessa-tf.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
 </p>
