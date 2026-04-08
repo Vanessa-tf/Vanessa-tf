@@ -1,34 +1,34 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Vanessa+👋;Full-stack+Developer;React+%26+TypeScript+Specialist;Eduvos+Class+of+2026" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Vanessa+👋;Aspiring+Software+Developer;Learning+React+%26+TypeScript;Eduvos+Graduate+Class+of+May+2026" alt="Typing SVG" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Fullstack%20Dev-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Junior%20Developer%20In%20Training-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/-Based%20in%20Mpumalanga-orange?style=flat-square" />
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/-Learning%20Every%20Day-green?style=flat-square" />
 </p>
 
 ---
 
 ### 🚀 About Me
-I am a Software Development student specializing in **React, TypeScript, and Node.js**. I'm currently focused on building scalable web applications and preparing for my graduation in April 2026.
+I am a Software Development student and an aspiring developer. I'm currently focused on building my foundation in **TypeScript** and **React**. I'm a beginner who is passionate about coding and constantly improving my skills as I prepare for my graduation in May 2026.
 
-- 🎓 **Education:** Information Systems @ Eduvos
-- 🛠️ **Current Projects:** [CareFinder](https://github.com/Vanessa-tf) & [LMS Capstone](https://github.com/Vanessa-tf/Learning-Management-System)
-- 🌱 **Learning:** Advanced Docker & Cloud Deployment
+- 🎓 **Education:** Information Systems @ Eduvos (Graduating May 2026)
+- 🛠️ **Current Learning Projects:** [CareFinder](https://github.com/Vanessa-tf) & [LMS Capstone](https://github.com/Vanessa-tf/Learning-Management-System)
+- 🌱 **Currently Studying:** TypeScript Fundamentals & Data Structures
 
 ---
 
-### 🛠️ My Toolbox
+### 🛠️ Tech Stack I'm Learning
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,ts,nodejs,express,postgres,docker,git,vscode,html,css" />
+    <img src="https://skillicons.dev/icons?i=ts,react,vite,nodejs,express,postgres,docker,git,vscode,html,css" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Activity
+### 📊 My Progress & Activity
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vanessa-tf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanessa-tf&layout=compact&theme=tokyonight" />
@@ -40,7 +40,9 @@ I am a Software Development student specializing in **React, TypeScript, and Nod
 
 ---
 
-### 📫 Connect with me
+### 📫 Let's Connect!
 <p align="left">
-<a href="[https://www.linkedin.com/in/vanessa-tf](https://www.linkedin.com/in/vanessa-fambarega-a88775347/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vanessa-tf" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vanessa-fambarega-a88775347/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vanessa Fambarega LinkedIn" height="30" width="40" />
+</a>
 </p>
